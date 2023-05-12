@@ -1,0 +1,100 @@
+.navbar-custom {
+    background-color: #212529;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.navbar-custom .navbar-brand {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-custom .nav-link {
+    color: #fff;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+}
+
+.navbar-custom .nav-link:hover {
+    color: #ffc107;
+}
+
+.cotainerx{
+    max-width: 968px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-color{
+    color: #06BEE1;
+}
+
+.home{
+   
+    background: url('https://images.unsplash.com/photo-1495546992359-94a48035efca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80') no-repeat center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sectionfour__img{
+    
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.sectionfour__bg1{
+    background: url('https://st.depositphotos.com/1737959/4610/i/950/depositphotos_46108207-stock-photo-water-pollution-in-river.jpg') no-repeat center;
+}
+
+.sectionfour__bg2{
+    background: url('https://i0.wp.com/brangkas.id/wp-content/uploads/2019/03/batu-bata.jpg?resize=1080%2C810') no-repeat center;
+}
+
+.sectionfour__bg3{
+    background: url('https://th.bing.com/th/id/OIP.B48QZ6VUR5QvuPWfD4uepwHaE8?pid=ImgDet&w=900&h=600&rs=1') no-repeat center;
+}
+
+.sectionfour__bg4{
+    background: url('https://www.copper-mesh.com/img/cobia-aquaculture-cages.jpg') no-repeat center;
+  
+}
+
+
+.section{
+    padding: 6rem 0 2rem;
+}  
+
+.imglogo{
+    
+   width: 50px;
+   height: 50px;
+  
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+h2{
+  font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+
+h4{
+  font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+h5{
+  font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+p{
+    font-family: Poppins;
+    font-weight: 400;
+}
